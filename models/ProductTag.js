@@ -32,6 +32,9 @@ ProductTag.init(
       }
     }
   },
+  {
+    sequelize,
+  }
 );
 
 module.exports = ProductTag;

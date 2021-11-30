@@ -1,9 +1,9 @@
 # E-Commerce
 
-![License](https://img.shields.io/github/license/gugacorchog/Employee-Tracker?color=red)
-![Languages](https://img.shields.io/github/languages/top/gugacorchog/Employee-Tracker)
-![Size](https://img.shields.io/github/repo-size/gugacorchog/Employee-Tracker?color=yellow)
-![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/Employee-Tracker?color=black)
+![License](https://img.shields.io/github/license/gugacorchog/E-Commerce)
+![Languages](https://img.shields.io/github/languages/top/gugacorchog/E-Commerce)
+![Size](https://img.shields.io/github/repo-size/gugacorchog/E-Commerce?color=red)
+![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/E-Commerce?color=pink)
 
 
 # Demo
@@ -36,7 +36,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-### dependencies": 
+## dependencies: 
 ### dotenv: "^8.6.0",
 ### express: "^4.17.1",
 ### mysql2: "^2.3.3",
